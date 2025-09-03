@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @yupengchengg147
 - I’m currently a research Intern at MPI-IS (Max Plank Institute for Intelligent System).
 - I finished my Master’s at TUM in January 2025, majoring in Robotics, Cognition, and Intelligence.
-- I'm interested in 3D Vision.
